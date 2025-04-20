@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    margin: 0%;
+    padding: 0;
+    text-decoration: none;
+}
+img{
+    
+    border: 10px;
+    border-color: white;
+    border-radius:60% ;
+    border-style: solid;
+    
+}
+p{
+    font-size: 50px;
+}
+ li{
+    text-decoration: none;
+    padding:10px ;
+    list-style: none;
+}
+div{
+    background-image: linear-gradient(to right, rgb(42, 152, 225) , rgb(130, 26, 186));
+}
+    
+    a{
+        text-decoration: none;
+        color: rgb(21, 234, 234);
+    }
